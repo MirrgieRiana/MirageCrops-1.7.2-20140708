@@ -1,0 +1,21 @@
+syntax: glob
+.gradle/
+build/natives/
+build/tmp/expandedArchives/
+build/tmp/makeStart/
+build/tmp/recompCls/
+build/tmp/recompSrc/
+build/tmp/decompile/
+build/tmp/deobfuscateJar/
+build/tmp/repackMinecraft/
+build/.gitignore
+.settings/
+build/classes/
+build/sources/
+eclipse/
+build/tmp/reobf/
+build/tmp/jar/
+build/resources/
+bin/
+.classpath
+.project

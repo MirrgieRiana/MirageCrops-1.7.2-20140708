@@ -1,0 +1,15 @@
+syntax: glob
+bin/*
+eclipse/*
+gradle/*
+gradlew
+*/~$*
+build/unpacked/*
+build/tmp
+build/sources
+build/resources
+build/classes
+build/natives
+build/.gitignore
+syntax: regexp
+^[^/]*\.

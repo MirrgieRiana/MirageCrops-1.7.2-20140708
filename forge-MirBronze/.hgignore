@@ -1,0 +1,20 @@
+syntax: glob
+.gradle
+eclipse/.metadata
+gradlew
+gradlew.bat
+eclipse/RemoteSystemsTempFiles
+bin
+README.txt
+LICENSE-fml.txt
+CREDITS-fml.txt
+MinecraftForge-License.txt
+MinecraftForge-Credits.txt
+.settings
+build/.gitignore
+forge-1.7.2-10.12.2.1147-changelog.txt
+gradle
+build/tmp
+build/sources
+build/classes
+build/resources
