@@ -1,0 +1,82 @@
+itemGroup.mirageCrops.ores.materials=MirageCrops Materials
+itemGroup.mirageCrops.ores.tools=MirageCrops Tools
+
+material.calcite.name=Calcite
+material.magnesite.name=Magnesite
+material.siderite.name=Siderite
+material.rhodochrosite.name=Rhodochrosite
+material.smithsonite.name=Smithsonite
+material.sphaerocobaltite.name=Sphaerocobaltite
+material.gaspeite.name=Gaspeite
+material.otavite.name=Otavite
+
+material.calcium.name=Calcium
+material.magnesium.name=Magnesium
+material.iron.name=Iron
+material.manganese.name=Manganese
+material.zinc.name=Zinc
+material.cobalt.name=Cobalt
+material.nickel.name=Nickel
+material.cadmium.name=Cadmium
+
+material.glass.name=Glass
+
+material.bismuth.name=Bismuth
+material.spinatite.name=Spinatite
+material.spinachium.name=Spinachium
+material.mirageAlloy.name=MirageAlloy
+
+material.talc.name=Talc
+material.gypsum.name=Gypsum
+material.fluorite.name=Fluorite
+material.apatite.name=Apatite
+material.orthoclase.name=Orthoclase
+material.certusQuartz.name=CertusQuartz
+material.topaz.name=Topaz
+material.ruby.name=Ruby
+material.diamond.name=Diamond
+
+material.sulfur.name=Sulfur
+
+material.copper.name=Copper
+material.tin.name=Tin
+material.gold.name=Gold
+material.silver.name=Silver
+material.lead.name=Lead
+material.bronze.name=Bronze
+material.brass.name=Brass
+material.electrum.name=Electrum
+material.mercury.name=Mercury
+material.titanium.name=Titanium
+material.chrome.name=Chrome
+material.iridium.name=Iridium
+material.osmium.name=Osmium
+material.steel.name=Steel
+material.stainlessSteel.name=Stainless Steel
+material.tungsten.name=Tungsten
+material.tungstenSteel.name=Tungsten Steel
+material.platinum.name=Platinum
+material.aluminium.name=Aluminium
+
+
+shape.gem.format=%s
+shape.ingot.format=%s Ingot
+shape.nugget.format=%s Nugget
+shape.plate.format=%s Plate
+shape.rod.format=%s Rod
+shape.wire.format=%s Wire
+shape.dust.format=%s Dust
+shape.dustSmall.format=Small Pile Of %s Dust
+shape.dustTiny.format=Tiny Pile Of %s Dust
+shape.machineHull.format=%s Machine Hull
+
+shape.ore.format=%s Ore
+shape.block.format=%s Block
+
+shape.wrench.format=%s Wrench
+shape.hardHammer.format=%s Hard Hammer
+shape.file.format=%s File
+shape.mortar.format=%s Mortar
+shape.chisel.format=%s Chisel
+shape.saw.format=%s Saw
+shape.cutter.format=%s Cutter

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "miragecrops",
+  "name": "MirageCrops",
+  "description": "MirageCrops is adding strange crops",
+  "version": "3.5.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Mirrgie Riana"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

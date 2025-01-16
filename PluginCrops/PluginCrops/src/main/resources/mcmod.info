@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PluginCrops_Debugger",
+  "name": "PluginCrops Debugger",
+  "description": "Debugger items for IC2Crops.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mirrgie Riana"],
+  "credits": "IC2Exp creators",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

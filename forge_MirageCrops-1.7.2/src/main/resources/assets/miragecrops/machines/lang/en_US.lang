@@ -1,0 +1,20 @@
+
+tile.superdirt.name=Super Dirt
+tile.machineMirageAlloy.name=MirageAlloy Machine
+tile.machineMirageAlloyFlat.name=MirageAlloy Flat Machine
+tile.machineMirageAlloyWild.name=MirageAlloy Wild Machine
+tile.machineApatite.name=Apatite MachineBlock
+tile.machineApatiteFlat.name=Apatite Flat Machine
+
+container.machineMirageAlloyFurnace=Furnace
+container.machineMirageAlloyCropHarvester=CropHarvester
+container.machineMirageAlloySmallBlastFurnace=Small Blast Furnace
+container.mirageTank=Tank
+
+tile.machineMirageAlloyFurnace.name=MirageAlloy Small Blast Furnace
+tile.machineMirageAlloyCropHarvester.name=MirageAlloy CropHarvester
+tile.machineMirageAlloySmallBlastFurnace.name=MirageAlloy Furnace
+
+tile.miragePipe.name=Mirage Pipe
+
+fluid.spinachjuice=Spinach Juice

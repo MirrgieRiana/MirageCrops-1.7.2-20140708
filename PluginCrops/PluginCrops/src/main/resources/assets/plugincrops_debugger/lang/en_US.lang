@@ -1,0 +1,23 @@
+
+itemGroup.pluginCrops=PluginCrops
+
+item.plugincrops_debugger.debugger.scanner.name=Book Of Plant Knowledge
+item.plugincrops_debugger.debugger.hoe.name=Hoe Of Extent
+item.plugincrops_debugger.debugger.hoe2.name=Strong Hoe Of Extent
+item.plugincrops_debugger.debugger.axe.name=Axe Of Deforestation
+item.plugincrops_debugger.debugger.bucket.name=Bucket Of Irrigation
+item.plugincrops_debugger.debugger.sword.name=Sword Of Slaughter
+item.plugincrops_debugger.debugger.fireball.name=Stone Of Hell Fire
+item.plugincrops_debugger.debugger.tnt.name=Cart Of Blasting
+item.plugincrops_debugger.debugger.placer.name=Brick Of The Earth
+item.plugincrops_debugger.debugger.crosser.name=Star Of Crossing
+item.plugincrops_debugger.debugger.crosser2.name=Star Of Continuity Crossing
+item.plugincrops_debugger.debugger.hourglass.name=Sand Of Time
+item.plugincrops_debugger.debugger.picker.name=Quiver Of Gene
+item.plugincrops_debugger.debugger.cropList.name=Sign Of Plant Dictionary
+item.plugincrops_debugger.debugger.crossingRateTable.name=Frame Of Crossing Rate
+item.plugincrops_debugger.debugger.harvester.name=Shears Of Sampling
+item.plugincrops_debugger.debugger.seedPicker.name=Seeds Of Sampling
+item.plugincrops_debugger.debugger.setter.name=Powder Of Mutation
+item.plugincrops_debugger.debugger.scanner2.name=Book Of Crossing Knowledge
+item.plugincrops_debugger.debugger.oreList.name=Sign Of Ore Dictionary

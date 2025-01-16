@@ -1,0 +1,25 @@
+id,Name,Class,Che,Foo,Def,Col,Wee,Tier,MaxSize,SizeAfHa,Humi,Nutr,Air,sum,BaseSeed,Amount,Meta,Type,Color,Gain,More Attr,Industrial,Magic,Toxic,Light,Fire,Undead,Crystal
+60,Sarracenia,CropSarracenia,2,0,3,0,1,4,5,3,1.2,0.8,1,3,,,,Sarracenia,Green,,,,1,,1,,,
+61,Cactus,CropCactus,0,0,3,2,3,1,4,2,0.2,1.2,1.6,3,Blocks.cactus,1,0,Cactus,Green,,Desert,,,,,,,
+62,Obsidian Cactus,CropCactusObsidian,1,0,4,1,1,4,4,2,0,2,1,3,,,,Cactus,Purple,Obsidian,Lava,,1,,,1,,
+63,Snow Cactus,CropCactusSnow,1,0,2,1,0,6,5,2,1,0.4,1.6,3,,,,Cactus,White,Snow,Ice,,1,,,,,1
+64,Circuit Reed,CropReedCircuit,10,0,0,0,0,8,4,1,1,1,1,3,,,,Reed,Silver,Circuit,,1,,,,,,
+65,Matter Berries,CropMatterBerries,10,0,0,0,0,14,4,3,1,1,1,3,,,,Leaves,Pink,Matter,,1,,,,,,
+66,Rose Quartz,CropRoseQuartz,0,0,0,0,0,7,4,2,0.8,1.2,1,3,,,,Flower,Pink,Quartz,Rose,,1,,,,,1
+67,Matter Wart,CropMatterWart,0,0,0,0,0,15,7,1,1,1,1,3,,,,Wart,Pink,Matter,,1,,,,,,
+68,Fire Wheat,CropFireWheat,0,0,0,0,0,3,9,1,1,1,1,3,,,,Wheat,Orange,Ashes,Blaze,,1,,,1,,
+69,Nagae Sarracenia,CropSarracenia,2,0,3,0,1,5,5,3,1.6,0.2,1.2,3,,,,Sarracenia,Red,Fish,Thunder,,1,,,,,
+70,Man Eating Sarracenia,CropSarracenia,2,0,3,0,1,8,5,3,1,1,1,3,,,,Sarracenia,Pink,Redstone,Air Human,,1,,,,,
+71,Devil Sarracenia,CropSarracenia,2,0,3,0,1,17,5,3,1.8,1.7,2,5.5,,,,Sarracenia,Red,Redstone,,,1,,,,,
+72,Vine,CropRoseQuartz,0,0,0,0,0,1,4,2,1.4,0.6,1.2,3.2,Block.vine,4,0,Vine,Green,,,,,,,,,
+73,Enochranks,CropRoseQuartz,0,0,0,0,0,5,4,2,1.4,0.6,1.2,3.2,,,,Vine,Blue,Apatite,,,1,,,,,1
+74,Fern,CropRoseQuartz,0,0,0,0,0,1,4,1,1,1,1,3,Block.tallGrass,4,2,Fern,Green,,,,,,,,,
+75,Honey Fern,CropRoseQuartz,0,0,0,0,0,3,5,1,1,1,1,3,,,,Fern,Yellow,Honey,,,,,,,,
+76,Spinach,CropRoseQuartz,0,0,0,0,0,3,4,2,1,1,1,3,ApiItems.magicHerbGreen,4,0,Spinach,Green,,,,1,,,,,
+77,Red Spinach,CropRoseQuartz,0,0,0,0,0,4,4,2,1,1,1,3,ApiItems.magicHerbRed,4,0,Spinach,Red,,,,1,,,,1,
+78,Blue Spinach,CropRoseQuartz,0,0,0,0,0,5,4,2,1,1,1,3,ApiItems.magicHerbBlue,4,0,Spinach,Blue,,,,1,,,,,
+79,Purple Spinach,CropRoseQuartz,0,0,0,0,0,6,4,2,1,1,1,3,ApiItems.magicHerbPurple,4,0,Spinach,Purple,,,,1,1,,,,
+80,Mandrake,CropRoseQuartz,0,0,0,0,0,7,4,2,1.2,0.6,1.2,3,ApiItems.mandrake,1,0,Spinach,Green,Mandrake,,,1,,,,,
+81,Fluoroberries,CropRoseQuartz,0,0,0,0,0,11,4,3,1.4,1.4,1.4,4.2,ApiItems.fluoroberries,4,0,Vine,Pink,Fluorite,,,1,1,,,,1
+82,Glass Wart,CropRoseQuartz,0,0,0,0,0,6,3,1,1,1,1,3,,,,Wart,White,Glass,,1,,,,,,
+83,Java Coffee,CropRoseQuartz,0,0,0,0,0,4,4,3,1,1,1,3,,,,Coffee,Green,,,,,,,,,
