@@ -1,0 +1,13 @@
+
+.hg/
+
+.gradle/
+
+.project
+.classpath
+.settings/
+.pmd
+
+/.idea/
+
+/projects/
