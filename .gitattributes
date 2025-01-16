@@ -1,0 +1,22 @@
+*               -text
+*.bat            text eol=crlf
+*.csv            text eol=lf
+*.gitattributes  text eol=lf
+*.gitignore      text eol=lf
+*.gradle         text eol=lf
+*.hgignore       text eol=lf
+*.hgsub          text eol=lf
+*.hgsubstate     text eol=lf
+*.hgtags         text eol=lf
+*.htm            text eol=lf
+*.html           text eol=lf
+*.info           text eol=lf
+*.java           text eol=lf
+*.json           text eol=lf
+*.lang           text eol=lf
+*.mcmeta         text eol=lf
+*.pl             text eol=lf
+*.plexe          text eol=lf
+*.properties     text eol=lf
+*.txt            text eol=lf
+*.xml            text eol=lf
