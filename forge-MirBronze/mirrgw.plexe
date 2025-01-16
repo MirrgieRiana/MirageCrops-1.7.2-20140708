@@ -1,0 +1,21 @@
+use strict;
+
+my $exeName = shift @ARGV || do {
+	print "USAGE: mirrgw [command] [arguments]", "\n";
+	exit;
+};
+
+my $exeFileName = "../projects/mirrg.perl/".$exeName.".pl";
+
+unless (-f $exeFileName) {
+	print "not found '$exeFileName'";
+	exit;
+}
+
+my $res = do $exeFileName;
+
+if ($@) {
+	die $@;
+}
+
+print "Return Code: ".$res, "\n";

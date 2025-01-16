@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.1.1" timestamp="2014-07-23T21:37:31.237">
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\buildcraft\api\core\IIconProvider.java">
+<violation beginline="23" endline="24" begincolumn="9" endcolumn="37" rule="SideOnlyClient" ruleset="ClientOnly" package="buildcraft.api.core" class="IIconProvider" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\buildcraft\api\filler\IFillerPattern.java">
+<violation beginline="21" endline="22" begincolumn="9" endcolumn="24" rule="SideOnlyClient" ruleset="ClientOnly" package="buildcraft.api.filler" class="IFillerPattern" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\buildcraft\api\gates\IAction.java">
+<violation beginline="21" endline="22" begincolumn="9" endcolumn="24" rule="SideOnlyClient" ruleset="ClientOnly" package="buildcraft.api.gates" class="IAction" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\buildcraft\api\gates\ITrigger.java">
+<violation beginline="27" endline="28" begincolumn="9" endcolumn="24" rule="SideOnlyClient" ruleset="ClientOnly" package="buildcraft.api.gates" class="ITrigger" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\miragecrops\framework\IGuiProvider.java">
+<violation beginline="14" endline="15" begincolumn="9" endcolumn="111" rule="SideOnlyClient" ruleset="ClientOnly" package="miragecrops.framework" class="IGuiProvider" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\miragecrops\framework\crop\IIconProvider.java">
+<violation beginline="13" endline="14" begincolumn="9" endcolumn="66" rule="SideOnlyClient" ruleset="ClientOnly" package="miragecrops.framework.crop" class="IIconProvider" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+<file name="D:\amyf\phymenvina\minecraft\forge_MirageCrops-1.7.2\src\main\java\miragecrops\framework\multiicon\IMultiIconShape.java">
+<violation beginline="17" endline="18" begincolumn="9" endcolumn="39" rule="SideOnlyClient" ruleset="ClientOnly" package="miragecrops.framework.multiicon" class="IMultiIconShape" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/naming.html#BooleanGetMethodName" priority="5">
+SideOnlyClient
+</violation>
+</file>
+</pmd>

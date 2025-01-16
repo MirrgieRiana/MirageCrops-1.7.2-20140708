@@ -1,0 +1,1 @@
+call eclipse\X1_ClientForgeBinBuilding\pmd-bin-5.1.1\bin\pmd -t 4 -d src\main\java -f xml -R eclipse\X1_ClientForgeBinBuilding\interfacecontainsclass.xml -v 1.6 > interfacecontainsclass.xml
